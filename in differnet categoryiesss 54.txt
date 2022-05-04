@@ -1,0 +1,300 @@
+* Peter Lord
+* David Sproxton
+* Nick Park
+* Richard Starzak
+* Art Clokey
+* Bob Ross
+* Bill Alexander
+* Danny Antonucci
+* Bruce Bickford
+* Bruce Timm
+* Momoko Sakura
+* Conrad Schwiering
+* Brian Wood
+* Genndy Tartakovsky
+* Jackson Pollock
+* Jamie Reid
+* Joanna Davidovich
+* Keith Haring
+* Lauren Faust
+* Tara Billinger
+* Zach Bellissimo
+* Terry Gilliam
+* Rob Renzetti
+* Piet Mondrian
+* Craig McCracken
+* Scott Cawthon
+* Shane Glines
+* Shepard Fairey
+* Alex Ahad
+* Stephen Holman
+* Michael Hemschoot
+* Barry Kooser
+* Quentin Blake
+* Will Vinton
+* Abbott and Costello
+* Steve Burns
+* Donavan Patton
+* Buck Jones
+* Buster Keaton
+* Charlie Chaplin
+* Clyde Bruckman
+* Edwin S. Porter
+* Georges Melies
+* William Kennedy Dickson
+* Fred Niblo
+* Edward F. Cline
+* Jimmy Kimmel
+* D.W. Griffith
+* Douglas Fairbanks
+* Harold Lloyd
+* Hoot Gibson
+* Woody Harrelson
+* John Wayne
+* Laurel and Hardy
+* Marlene Dietrich
+* The Marx Brothers
+* Mary Pickford
+* Monty Python
+* Harley Bird
+* Grey DeLisle
+* Tara Strong
+* Stanley Kubrick
+* Rodney Dangerfield
+* The Three Stooges
+* Tom Mix
+* The Talmadge Sisters
+* Will Rogers
+* William S. Hart
+* Wheeler and Woolsey
+* Wallace Reid
+* W.C. Fields
+* Jonathan Gay
+* Vin Di Bona
+* Max Corenblum
+* Morris Barstein
+* Richard C. Leach
+* Michael Dell
+* Elon Musk
+* Bill Hewlett
+* David Packard
+* Robert L. Brock
+* Aaron Fechter
+* Thomas Edison
+* Nikola Tesla
+* Alexander Graham Bell
+* Abraham Abraham
+* Isidor Straus
+* Oscar L. Straus
+* Ross Perot
+* Charles Alfred Pillsbury
+* Noel C. Bloom
+* Fred Trump
+* Robert Trump
+* Sam Walton
+* The Wright Brothers
+* Howard Hughes
+* John Crosby
+* Peter Orton
+* Sophie Turner Laing
+* Carl Laemmle
+* Richard A. Rowland
+* Marcus Loew
+* Samuel Goldwyn
+* Louis B. Mayer
+* Nolan Bushnell
+* Bruce E. Goldberg
+* Alvin Hung
+* Colonel Sanders
+* Mike Illitch
+* Robert O. Peterson
+* Steve Jobs
+* Bill Gates
+* Paul Allen
+* Tom Fulp
+* Oliver E. Rosenberg
+* Manny Rosenfeld
+* Moe Strauss
+* W. Graham "Jack" Jackson
+* Izzy Strauss
+* Robert Kiyosaki
+* Charles Lazarus
+* Jawed Karim
+* Jimmy Wales
+* Larry Sanger
+* Rick Wetzel
+* Bill Phelps
+* Afro Celt Sound System
+* The Andrews Sisters
+* Batmobile
+* The Beatles
+* Billy Idol
+* The Cockroaches
+* Dead Kennedys
+* Puffy AmiYumi
+* Joan Jett
+* Oingo Boingo
+* Danny Elfman
+* The Radioactive Chicken Heads
+* The Ramones
+* The Residents
+* The Sex Pistols
+* Johnny Rotten
+* Sid Vicious
+* Snakefinger
+* Caitlin Claessens
+* The Wiggles
+* AgentC-24
+* XJKenny
+* Roger Bacon
+* Aidan DeFrehn
+* AtomicKingBoo
+* ChillGuyDraws
+* Frederick-Art
+* JaviDLuffy
+* SketchMeNot-Art
+* SupesArt
+* Teelokay
+* TwoStripTechnicolor
+* The Ashleys
+* The Hex Girls
+* Josie and the Pussycats
+* The Teen Angels
+* The Totally Spies
+* Micah McGonigal
+* Sheryl Leach
+* The Barney Bunch
+* Mitchell Kreigman
+* Keith Chapman
+* The Einstein Brothers
+* Alfred Harvey
+* Mateo Solares
+* Charles Harrelson
+* Lee Harvey Oswald
+* J.D. Tippit
+* Craig Hickman
+* Josh Selig
+* Kathy Oxley
+* Nancy Spungen
+* Malcolm McLaren
+* Chilly Jimenez
+* Troy McDonald
+* Devon Thagard
+* The Kratt Brothers
+* Phil Vischer
+* Mike Nawrocki
+* Robert Shea
+* Terry A. Davis
+* Malclypse the Younger
+* Benjamin Franklin
+* Charles Carroll of Carrollton
+* John Hancock
+* John Hart
+* Caesar Rodney
+* William Whipple
+* William Williams
+* Ivan Chermayeff
+* Tom Geismar
+* Sagi Haviv
+* Mackey Saturday
+* Pablo Ferro
+* Saul Bass
+* J.R. "Bob" Dobbs
+* Connie Dobbs
+* Bob Black
+* R. Crumb
+* Devo
+* Philo Drummond
+* The El Queso All Stars
+* Philip Gale
+* Matt Groening
+* Ken Kesey
+* Timothy Leary
+* Marshall Ledbetter
+* Paul Mavrides
+* Mark Mothersbaugh
+* Pan-Demonium
+* Gary Panter
+* Paul Reubens
+* Joe Riley
+* Hal Robins
+* KRK Ryden
+* John Shirley
+* Chas Smith
+* Ivan Stang
+* Kerry Wendell Thornley
+* Patrick Volkerding
+* Robert Anton Wilson
+* Frank Zappa
+* Ludwig van Beethoven
+* Wolfgang Amadeus Mozart
+* Edvard Grieg
+* Jacques Offenbach
+* Gioachino Rossini
+* William Henry Jackson
+* John C.H. Grabill
+* Charles Belden
+* Jeff Kinney
+* Dr. Seuss
+* Roger Hargreaves
+* Adam Hargreaves
+* Roald Dahl
+* Brian Henson
+* Jim Henson
+* Frank Oz
+* David Rudman
+* Kevin Clash
+* Logan Thirtyacre
+* Bob Dole
+* Jack Kemp
+* John McCain
+* Cadwallader C. Washburn
+* Jared Polis
+* John Hickenlooper
+* Mark Gordon
+* Matt Mead
+* Colin Powell
+* Condoleeza Rice
+* John Roberts
+* William Rehnquist
+* Ruth Bader Ginsburg
+* Thurgood Marshall
+* George Washington
+* John Adams
+* Thomas Jefferson
+* James Madison
+* Andrew Jackson
+* James K. Polk
+* Franklin Pierce
+* Abraham Lincoln
+* Ulysses S. Grant
+* Theodore Roosevelt
+* Franklin D. Roosevelt
+* Dwight D. Eisenhower
+* John F. Kennedy
+* Lyndon B. Johnson
+* Jimmy Carter
+* Ronald Reagan
+* George H.W. Bush
+* Bill Clinton
+* George W. Bush
+* Barack Obama
+* Donald Trump
+* Joe Biden
+* Aaron Burr
+* Elbridge Gerry
+* Richard M. Johnson
+* George M. Dallas
+* Hannibal Hamlin
+* Schuyler Colfax
+* Garret Hobart
+* Charles W. Fairbanks
+* Adlai E. Stevenson
+* Henry A. Wallace
+* Alben W. Barkley
+* Hubert Humphrey
+* Nelson Rockefeller
+* Walter Mondale
+* Dick Cheney
+* Mike Pence
+* Kamala Harris

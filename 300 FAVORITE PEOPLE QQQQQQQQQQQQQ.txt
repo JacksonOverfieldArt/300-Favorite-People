@@ -1,0 +1,304 @@
+1. Peter Lord
+2. David Sproxton
+3. Nick Park
+4. Richard Starzak
+5. Abbott and Costello
+6. Jonathan Gay
+7. Afro Celt Sound System
+8. AgentC-24
+9. XJKenny
+10. Roger Bacon
+11. Aidan DeFrehn
+12. Vin Di Bona
+13. The Andrews Sisters
+14. Art Clokey
+15. The Ashleys
+16. AtomicKingBoo
+17. Micah McGonigal
+18. Max Corenblum
+19. Morris Barstein
+20. Sheryl Leach
+21. Richard C. Leach
+22. The Barney Bunch
+26. Batmobile
+27. Mitchell Kreigman
+28. The Beatles
+29. Benjamin Franklin
+30. Billy Idol
+31. Steve Burns
+32. Donovan Patton
+33. Bob Ross
+34. Bill Alexander
+35. Keith Chapman
+36. Danny Antonucci
+37. Bruce Bickford
+38. Bruce Timm
+39. Buck Jones
+40. Michael Dell
+41. Elon Musk
+42. Bill Hewlett
+43. David Packard
+44. Robert L. Brock
+45. Aaron Fechter
+46. Thomas Edison
+47. Nikola Tesla
+48. Alexander Graham Bell
+49. Abraham Abraham
+50. Isidor Straus
+51. Oscar L. Straus
+52. Ross Perot
+53. Charles Alfred Pillsbury
+54. Noel C. Bloom
+55. Fred Trump
+56. Robert Trump
+57. Sam Walton
+58. The Wright Brothers
+59. Howard Hughes
+60. John Crosby
+61. Peter Orton
+62. Sophie Turner Laing
+63. Carl Laemmle
+64. Richard A. Rowland
+65. Marcus Loew
+66. Samuel Goldwyn
+67. Louis B. Mayer
+68. Buster Keaton
+69. Charlie Chaplin
+70. Ivan Chermayeff
+71. Tom Geismar
+72. Sagi Haviv
+73. Mackey Saturday
+74. Momoko Sakura
+75. ChillGuyDraws
+76. Nolan Bushnell
+77. J.R. "Bob" Dobbs
+78. Connie Dobbs
+79. Bob Black
+80. R. Crumb
+81. Devo
+82. Philo Drummond
+83. The El Queso All Stars
+84. Philip Gale
+85. Matt Groening
+86. Ken Kesey
+87. Timothy Leary
+88. Marshall Ledbetter
+89. Paul Mavrides
+90. Mark Mothersbaugh
+91. Gary Panter
+92. Paul Reubens
+93. Joe Riley
+94. Hal Robins
+95. KRK Ryden
+96. John Shirley
+97. Chas Smith
+98. Ivan Stanng
+99. Kerry Wendell Thornley
+100. Patrick Volkerding
+101. Robert Anton Wilson
+102. Frank Zappa
+103. Ludwig van Beethoven
+104. Wolfgang Amadeus Mozart
+105. Edvard Grieg
+106. Jacques Offenbach
+107. Gioachino Rossini
+108. William Henry Jackson
+109. John C.H. Grabill
+110. Charles Belden
+111. Clyde Bruckman
+112. Edwin S. Porter
+113. Georges Melies
+114. William Kennedy Dickson
+115. Fred Niblo
+116. Edward F. Cline
+117. The Cockroaches
+118. Conrad Schwiering
+119. Brian Wood
+120. Jimmy Kimmel
+121. Bruce E. Goldberg
+122. D.W. Griffith
+123. Dead Kennedys
+124. Genndy Tartakovsky
+125. Jeff Kinney
+126. Douglas Fairbanks
+127. Dr. Seuss
+128. The Einstein Brothers
+129. Charles Carroll of Carrollton
+130. John Hancock
+131. John Hart
+132. Caesar Rodney
+133. William Whipple
+134. William Williams
+135. Frederick-Art
+136. Alvin Hung
+137. Brian Henson
+138. Harold Lloyd
+139. Alfred Harvey
+140. The Hex Girls
+141. Puffy AmiYumi
+142. Hoot Gibson
+143. Mateo Solares
+144. Jackson Pollock
+145. Jamie Reid
+146. JaviDLuffy
+147. Jim Henson
+148. Frank Oz
+149. David Rudman
+150. Kevin Clash
+151. Joan Jett
+152. Joanna Davidovich
+153. Charles Harrelson
+154. Woody Harrelson
+155. Lee Harvey Oswald
+156. J.D. Tippit
+157. John Wayne
+158. Josie and the Pussycats
+159. Keith Haring
+160. Colonel Sanders
+161. Craig Hickman
+162. Laurel and Hardy
+163. Lauren Faust
+164. Mike Illitch
+165. Tara Billinger
+166. Zach Bellisimmo
+167. Robert O. Peterson
+168. Steve Jobs
+169. Marlene Dietrich
+170. The Marx Brothers
+171. Mary Pickford
+172. Bill Gates
+173. Paul Allen
+174. Monty Python
+175. Terry Gilliam
+176. Roger Hargreaves
+177. Adam Hargreaves
+178. Rob Renzetti
+179. Tom Fulp
+180. Oingo Boingo
+181. Danny Elfman
+182. Oliver E. Rosenberg
+183. Josh Selig
+184. Pablo Ferro
+185. Pan-Demonium
+186. Manny Rosenfeld
+187. Moe Strauss
+188. W. Graham "Jack" Jackson
+189. Izzy Strauss
+190. Harley Bird
+191. Grey DeLisle
+192. Tara Strong
+193. Piet Mondrian
+194. Craig McCracken
+195. Kathy Oxley
+196. The Radioactive Chicken Heads
+197. The Ramones
+198. The Residents
+199. Robert Kiyosaki
+200. Scott Cawthon
+201. The Sex Pistols
+202. Johnny Rotten
+203. Sid Vicious
+204. Nancy Spungen
+205. Malcolm McLaren
+206. Shane Glines
+207. Rodney Dangerfield
+208. Saul Bass
+209. Shepard Fairey
+210. SketchMeNot-Art
+211. Alex Ahad
+212. Snakefinger
+213. Stanley Kubrick
+214. Stephen Holman
+215. Logan Thirtyacre
+216. Chilly Jimenez
+217. Caitlin Claessens
+218. Troy McDonald
+219. Devon Thagard
+220. SupesArt
+221. The Talmadge Sisters
+222. Teelokay
+223. The Teen Angels
+224. The Three Stooges
+225. Tom Mix
+226. The Totally Spies
+227. Charles Lazarus
+228. TwoStripTechnicolor
+229. The Kratt Brothers
+230. Jawed Karim
+231. Michael Hemschoot
+232. Barry Kooser
+233. Roald Dahl
+234. Quentin Blake
+235. Will Vinton
+236. Will Rogers
+237. William S. Hart
+238. Jimmy Wales
+239. Larry Sanger
+240. The Wiggles
+241. Wheeler and Woolsey
+242. Rick Wetzel
+243. Bill Phelps
+244. Wendy Thomas
+245. Wallace Reid
+246. W.C. Fields
+247. Phil Vischer
+248. Mike Nawrocki
+249. Robert Shea
+250. Terry A. Davis
+251. Malclypse the Younger
+252. Bob Dole
+253. Jack Kemp
+254. John McCain
+255. Henry Clay
+256. Charles C. Pinckney
+257. Cadwallader C. Washburn
+258. Jared Polis
+259. John Hickenlooper
+260. Mark Gordon
+261. Matt Mead
+262. Colin Powell
+263. Condoleeza Rice
+264. John Roberts
+265. William Rehnquist
+266. Ruth Bader Ginsburg
+267. Thurgood Marshall
+268. Clarence Thomas
+269. George Washington
+270. John Adams
+271. Thomas Jefferson
+272. James Madison
+273. Andrew Jackson
+274. James K. Polk
+275. Franklin Pierce
+276. Abraham Lincoln
+277. Ulysses S. Grant
+278. Theodore Roosevelt
+279. Franklin D. Roosevelt
+280. Dwight D. Eisenhower
+281. John F. Kennedy
+282. Lyndon B. Johnson
+283. Jimmy Carter
+284. Ronald Reagan
+285. George H.W. Bush
+286. Bill Clinton
+287. George W. Bush
+288. Barack Obama
+289. Donald Trump
+290. Joe Biden
+291. Aaron Burr
+292. Elbridge Gerry
+293. Richard M. Johnson
+294. George M. Dallas
+295. Hannibal Hamlin
+296. Schuyler Colfax
+297. Garret Hobart
+298. Charles W. Fairbanks
+299. Adlai E. Stevenson
+300. Henry A. Wallace
+301. Alben W. Barkley
+302. Hubert Humphrey
+303. Nelson Rockefeller
+304. Walter Mondale
+305. Dick Cheney
+306. Mike Pence
+307. Kamala Harris
